@@ -3,3 +3,4 @@ Placeholder for ProjectA
 
 this is the first change
 Adding more info
+and this was added locally
